@@ -1,0 +1,44 @@
+.col {
+   
+}
+
+body {
+     background-image: url("../images/background.jpg");
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+   
+}
+
+.question {
+    margin-top: 5vh;
+    text-align:center;
+    border: 1px solid red;
+}
+
+header {
+    text-align: center;
+}
+header h1 {
+    
+    margin-top: 10vh;
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+}
+
+.answers {
+    width: 100%;
+    margin-top: 2vh;
+}
+
+.next {
+    text-align: center;
+}
+
+.quizback {
+    background-color: red;
+    
+}
